@@ -6,7 +6,6 @@ I wrote a clone of the game Battle Ship that runs in the console. The game is fu
 
 The purpose for writing this software was to learn C++, I picked battle ship because it would have a variety of necessary functions and I could get a more complete grasp of the language.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
 [Software Demo Video](https://youtu.be/89sdRUdJPr0)
 
@@ -18,7 +17,6 @@ The programming language I used was C++. I used a few libraries as well. iostrea
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
 - [cplusplus.com](https://cplusplus.com/reference/thread/thread/)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/array-class-c/https://www.geeksforgeeks.org/array-class-c/)
